@@ -2,6 +2,7 @@
   "name": "first-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://thomasjang.github.io/react-calculator/",
   "dependencies": {
     "@types/styled-components": "^4.0.3",
     "antd": "^3.10.3",
